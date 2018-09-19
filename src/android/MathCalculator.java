@@ -24,7 +24,6 @@ public class MathCalculator extends CordovaPlugin {
             return true;
         }
         return false;
-        return false;
         
     }
 
